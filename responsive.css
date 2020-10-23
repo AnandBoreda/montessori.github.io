@@ -123,7 +123,7 @@
   }
   #open {
     position: absolute;
-    width: 50%;
+    width: 66%;
     margin-top: 27.5rem;
   }
   #open > h2 {
@@ -138,6 +138,7 @@
     border: none;
   }
   .enriching {
+    padding-top: 1.5rem;
     font-size: 1.2rem;
     background-image: radial-gradient(#d85a5c 10%, transparent 0) !important;
     background-size: 0.6rem 0.6rem !important;
@@ -149,14 +150,17 @@
     margin-bottom: 1rem;
   }
   /* .cur {
-    margin-top: 18rem;
-  } */
+            margin-top: 18rem;
+          } */
   /* .toddler,
-  .primary {
-    width: 50%;
-  } */
+          .primary {
+            width: 50%;
+          } */
+  #curriculum {
+    padding: 0 !important;
+  }
   #programs {
-    margin-top: 30rem;
+    margin-top: 45rem;
   }
   .curriculum-areas {
     margin-top: 45rem;
@@ -168,7 +172,7 @@
   #email,
   #phone,
   #message {
-    width: 100% !important;
+    width: 17rem !important;
   }
   #send {
     margin-left: 1.5rem;
@@ -185,6 +189,9 @@
   }
   .f {
     padding: 0 !important;
+  }
+  .f2 {
+    padding-top: 6rem !important;
   }
   .foot-logo {
     margin-left: 50%;
