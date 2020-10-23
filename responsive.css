@@ -1,0 +1,199 @@
+/* tablets */
+@media (min-width: 700px) and (max-width: 1200px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+  .center {
+    text-align: center !important;
+  }
+
+  .landing {
+    height: 82vh;
+  }
+  .navbar {
+    margin: -2% 0 0 70% !important;
+    width: 48%;
+  }
+  .title {
+    font-size: 1.5rem;
+    margin: -1rem 0 0 53%;
+    font-size: 2rem;
+    width: 100%;
+  }
+  .b {
+    margin: 0 10rem 0 0;
+  }
+  .b1,
+  .b2 {
+    width: 70%;
+  }
+  .b1 {
+    margin-left: 50%;
+  }
+  .b2 {
+    margin-left: 45%;
+  }
+  #contact {
+    position: absolute;
+    margin: 60% 0% 0 10%;
+    transform: translateX(-10%);
+  }
+  #open {
+    width: 50%;
+  }
+  .st-row,
+  .st-row > div {
+    margin: 0;
+    padding: 0;
+  }
+  .st-card {
+    height: 22rem;
+  }
+  .page-footer {
+    margin: 29rem 0 0 0;
+  }
+  #montessori-values {
+    height: 50vh;
+  }
+  #curriculum {
+    margin-top: 60rem;
+    height: 70vh;
+  }
+  #triangle-right,
+  #triangle-right1,
+  #triangle-right2 {
+    margin-left: 10rem;
+  }
+  .pre-primary > h3 {
+    padding-top: 3rem;
+  }
+  .pre-primary > img {
+    margin-top: 3rem !important;
+  }
+  .c-1 > h3 {
+    text-align: center;
+    font-size: 3rem;
+  }
+  .c-2 > h3 {
+    font-size: 3rem;
+  }
+  #note {
+    font-size: 1.5rem;
+    backdrop-filter: blur(20px) !important;
+  }
+}
+/* mobiles */
+@media (max-width: 600px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+  .none {
+    display: none !important;
+  }
+  .center {
+    text-align: center !important;
+  }
+  .just {
+    text-align: justify;
+  }
+  .top {
+    display: none;
+  }
+  .landing {
+    height: 85vh;
+  }
+  .nav-link,
+  #navg {
+    background-color: #375eab !important;
+    text-align: center;
+  }
+  .logo-img {
+    position: absolute;
+    height: 10rem;
+    width: 10rem;
+    margin: 60% 0 0 50%;
+    transform: translateX(-50%);
+  }
+  #contact {
+    position: absolute;
+    margin: 26rem 0 0 50%;
+    transform: translateX(-50%);
+  }
+  #open {
+    position: absolute;
+    width: 50%;
+    margin-top: 27.5rem;
+  }
+  #open > h2 {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+  }
+  .navbar-toggler {
+    background-color: #375eab;
+  }
+  .navbar-toggler:hover {
+    outline: none;
+    border: none;
+  }
+  .enriching {
+    font-size: 1.2rem;
+    background-image: radial-gradient(#d85a5c 10%, transparent 0) !important;
+    background-size: 0.6rem 0.6rem !important;
+  }
+  .st-row {
+    margin: 0 !important;
+  }
+  .st-card {
+    margin-bottom: 1rem;
+  }
+  /* .cur {
+    margin-top: 18rem;
+  } */
+  /* .toddler,
+  .primary {
+    width: 50%;
+  } */
+  #programs {
+    margin-top: 30rem;
+  }
+  .curriculum-areas {
+    margin-top: 45rem;
+  }
+  .contact-form {
+    margin-top: 60rem;
+  }
+  #name,
+  #email,
+  #phone,
+  #message {
+    width: 100% !important;
+  }
+  #send {
+    margin-left: 1.5rem;
+  }
+  .img-grid {
+    width: 100%;
+    margin: 1rem 0;
+  }
+  .bf {
+    width: 100%;
+  }
+  .page-footer {
+    margin-top: 25rem;
+  }
+  .f {
+    padding: 0 !important;
+  }
+  .foot-logo {
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+}
