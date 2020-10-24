@@ -347,7 +347,7 @@ li {
   height: 100%;
   width: 100%;
   object-fit: cover;
-  box-shadow: inset 0px 0px 100rem black;
+  /* box-shadow: inset 0px 0px 100rem black; */
 }
 .c-2 {
   background-image: url(./images/c-2.jpeg);
@@ -357,7 +357,7 @@ li {
   height: 100%;
   width: 100%;
   object-fit: cover;
-  box-shadow: inset 0px 0px 100rem black;
+  /* box-shadow: inset 0px 0px 100rem black; */
 }
 .c-1 > h3,
 .c-2 > h3 {
