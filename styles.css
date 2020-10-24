@@ -6,6 +6,7 @@ body {
   font-family: Poppins;
   z-index: 1;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 .ubuntu {
   font-family: "Ubuntu", sans-serif;
@@ -180,6 +181,9 @@ body {
   box-shadow: 0px 0px 15px grey;
   border-radius: 20px;
 }
+.card-title {
+  margin-top: 3rem;
+}
 .st-card {
   height: 20rem;
 }
@@ -333,7 +337,7 @@ li {
   font-size: 1rem;
 }
 .r-1 {
-  height: 50vh;
+  height: 55vh;
 }
 .c-1 {
   background-image: url(./images/c-1.jpg);
