@@ -121,6 +121,9 @@
     margin-left: 36%;
     margin-top: 2rem;
   }
+  .sec-title {
+    font-size: 2rem;
+  }
   .navbar {
     z-index: 2;
     margin: 0% 0 0 40% !important;
@@ -236,7 +239,21 @@
     height: 125%;
   }
 }
-
+@media (max-width: 500px) {
+  #contact {
+    margin: 55vh 0 0 50%;
+  }
+  .contact-form {
+    margin-top: 65rem;
+  }
+  #open {
+    margin-top: 0;
+  }
+  .c-1,
+  .c-2 {
+    height: 130%;
+  }
+}
 @media (min-width: 1200px) and (max-width: 1300px) {
   #contact {
     margin: -30% 2% 0 82%;
