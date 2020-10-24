@@ -104,6 +104,9 @@
   .landing {
     height: 85vh;
   }
+  .navbar {
+    z-index: 2;
+  }
   .nav-link,
   #navg {
     background-color: #375eab !important;
@@ -113,18 +116,18 @@
     position: absolute;
     height: 10rem;
     width: 10rem;
-    margin: 60% 0 0 50%;
+    margin: 30% 0 0 50%;
     transform: translateX(-50%);
   }
   #contact {
     position: absolute;
-    margin: 26rem 0 0 50%;
+    margin: 20rem 0 0 50%;
     transform: translateX(-50%);
   }
   #open {
     position: absolute;
     width: 66%;
-    margin-top: 30rem;
+    margin-top: 30.5rem;
   }
   #open > h2 {
     font-size: 1.5rem;
@@ -217,7 +220,7 @@
     margin: -30% 2% 0 82%;
   }
   .b {
-    margin: -5rem 5rem 0rem 0rem;
+    margin: -8rem 5rem 0rem 0rem;
   }
   .b > h1 {
     font-size: 2.2rem;
@@ -243,7 +246,7 @@
     font-size: 1rem;
     width: 30%;
     height: 13vh;
-    margin-top: 20vh;
+    margin-top: 28vh;
   }
   .enriching {
     font-size: 1.8rem;
