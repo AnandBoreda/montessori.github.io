@@ -83,8 +83,8 @@
     backdrop-filter: blur(20px) !important;
   }
 }
-/* mobiles */
-@media (max-width: 800px) {
+/* large screen mobiles */
+@media (max-width: 1600px) and (max-height: 720px) {
   html,
   body {
     overflow-x: hidden;
