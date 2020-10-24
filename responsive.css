@@ -106,7 +106,7 @@
   }
   .navbar {
     z-index: 2;
-    margin: 0% 0 0 40%;
+    margin: 0% 0 0 40% !important;
   }
   .nav-link,
   #navg {
