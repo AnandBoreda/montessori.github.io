@@ -162,6 +162,9 @@
   #curriculum {
     padding: 0 !important;
   }
+  .pre-primary {
+    margin-bottom: 1rem !important;
+  }
   #programs {
     margin-top: 45rem;
   }
