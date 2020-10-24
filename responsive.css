@@ -106,6 +106,7 @@
   }
   .navbar {
     z-index: 2;
+    margin: 0% 0 0 40%;
   }
   .nav-link,
   #navg {
@@ -126,8 +127,8 @@
   }
   #open {
     position: absolute;
-    width: 66%;
-    margin-top: 35rem;
+    width: 72%;
+    margin-top: 69vh;
   }
   #open > h2 {
     font-size: 1.5rem;
