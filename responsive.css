@@ -166,7 +166,7 @@
     margin-top: 45rem;
   }
   .contact-form {
-    margin-top: 70rem;
+    margin-top: 60rem;
   }
   #name,
   #email,
@@ -185,7 +185,7 @@
     width: 100%;
   }
   .page-footer {
-    margin-top: 25rem;
+    margin-top: 35rem;
   }
   .f {
     padding: 0 !important;
@@ -202,5 +202,9 @@
   }
   .mobile {
     display: block;
+  }
+  .c-1,
+  .c-2 {
+    height: 125%;
   }
 }
