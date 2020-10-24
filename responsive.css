@@ -104,6 +104,23 @@
   .landing {
     height: 85vh;
   }
+  .b {
+    margin: 18rem 5rem 0rem 0rem;
+  }
+  .b1 {
+    width: 100%;
+    margin-left: 20%;
+  }
+  .b2 {
+    width: 100%;
+    margin-left: 15%;
+  }
+  .title {
+    font-size: 2rem !important;
+    width: 100%;
+    margin-left: 36%;
+    margin-top: 2rem;
+  }
   .navbar {
     z-index: 2;
     margin: 0% 0 0 40% !important;
@@ -122,13 +139,13 @@
   }
   #contact {
     position: absolute;
-    margin: 20rem 0 0 50%;
+    margin: 60vh 0 0 50%;
     transform: translateX(-50%);
   }
   #open {
     position: absolute;
     width: 72%;
-    margin-top: 69vh;
+    margin-top: 8vh;
   }
   #open > h2 {
     font-size: 1.5rem;
@@ -188,6 +205,7 @@
     width: 100%;
     margin: 1rem 0;
   }
+
   .bf {
     width: 100%;
   }
