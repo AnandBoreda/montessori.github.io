@@ -17,12 +17,12 @@
   }
   .title {
     font-size: 1.5rem;
-    margin: -1rem 0 0 53%;
+    margin: -1rem 0 0 35% !important;
     font-size: 2rem;
     width: 100%;
   }
   .b {
-    margin: 0 10rem 0 0;
+    margin: 14rem 10rem 0 0 !important;
   }
   .b1,
   .b2 {
@@ -41,6 +41,10 @@
   }
   #open {
     width: 50%;
+    /* margin-top: 28% !important; */
+  }
+  .tab {
+    margin-top: 28% !important;
   }
   .st-row,
   .st-row > div {
@@ -81,6 +85,16 @@
   #note {
     font-size: 1.5rem;
     backdrop-filter: blur(20px) !important;
+  }
+  .contact-form {
+    margin-top: 0 !important;
+  }
+  #programs {
+    margin-top: 10rem !important;
+  }
+  .card {
+    margin: 0 0.5rem !important;
+    height: 25rem !important;
   }
 }
 /* mobiles */
