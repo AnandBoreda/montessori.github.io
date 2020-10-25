@@ -270,7 +270,7 @@
   }
   .c-1,
   .c-2 {
-    height: 125%;
+    height: 28rem;
   }
 }
 @media (max-width: 500px) {
@@ -285,7 +285,7 @@
   }
   .c-1,
   .c-2 {
-    height: 130%;
+    height: 28rem;
   }
   #open {
     margin-top: 4rem;
