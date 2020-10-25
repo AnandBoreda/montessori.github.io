@@ -119,7 +119,7 @@
     height: 85vh;
   }
   .b {
-    margin: 10rem 5rem 0rem 0rem;
+    margin: 13rem 5rem 0rem 0rem;
   }
   .b1 {
     width: 85%;
@@ -170,7 +170,7 @@
   #open {
     position: absolute;
     width: 72%;
-    margin-top: 45% !important;
+    margin-top: 33% !important;
   }
   #open > h2 {
     font-size: 1.5rem;
